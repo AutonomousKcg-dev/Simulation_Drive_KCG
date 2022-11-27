@@ -1,0 +1,17 @@
+/**:
+  ros__parameters:
+    slave: True
+    init_x: -316.284048		
+    init_y: -1416.31731
+    init_velocity: 27.7
+    init_heading: -1.57
+    state_frame: 'map'
+    odom_child_frame: 'base_link'
+    sim_time_step_s: 0.04
+    output_time_s: 0.04
+    sync_mode: True
+
+    vehicle:
+      cog_to_front_axle: 1.228
+      cog_to_rear_axle: 1.5618
+ 

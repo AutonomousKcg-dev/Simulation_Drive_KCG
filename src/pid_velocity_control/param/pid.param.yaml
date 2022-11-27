@@ -1,0 +1,14 @@
+/**:
+  ros__parameters:
+    kp: [1.0,1.0,1.0,1.0]
+    kd: [0.0,0.0,0.0,0.0]
+    ki: [0.0,0.0,0.0,0.0]
+    gain_steps: [100.0,101.0,102.0,103.0]
+    max_throttle_acc: 1000.0
+    min_throttle_acc: -1000.0
+    max_brake_acc: 1000.0
+    min_brake_acc: -1000.0
+    max_throttle: 10.0 #~m/s^2
+    min_throttle: -10.0
+    vrx_simulator: False
+    enable_log_to_file: False

@@ -1,0 +1,18 @@
+/**:
+  ros__parameters:
+    # publish_tf: True #just the ego vehicle publish tf
+    slave: False
+    init_x: -312.908 #-304.123 #-312.909 #-4.0
+    init_y:  -1330.269 # -1323.122 #-10.0
+    init_velocity: 27.7
+    init_heading: -1.57
+    state_frame: 'map'
+    odom_child_frame: 'base_link'
+    sim_time_step_s: 0.04
+    output_time_s: 0.04
+    sync_mode: True
+
+    vehicle:
+      cog_to_front_axle: 1.228
+      cog_to_rear_axle: 1.5618
+ 

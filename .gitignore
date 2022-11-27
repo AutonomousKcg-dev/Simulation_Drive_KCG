@@ -1,0 +1,10 @@
+## Build and Install Folders
+/build
+/install
+/log
+
+
+## MSVC Artifacts
+.vscode/
+.vs/
+
